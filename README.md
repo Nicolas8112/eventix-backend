@@ -9,3 +9,15 @@ Eventix es un sistema transaccional diseñado para centralizar y automatizar el 
 
 ## 📌 Artefactos y Diagramas del Proyecto
 Los diagramas del modelado arquitectónico se encuentran organizados dentro de la carpeta `/docs`:
+
+### 1. Diagrama de Arquitectura
+![Diagrama de Arquitectura](./docs/Punto%203%20(Diagrama%20de%20Arquitectura).jpeg)
+
+### 2. Modelo Relacional
+![Modelo Relacional](./docs/Punto%204%20(Modelo%20Relacional).jpeg)
+
+### 3. Diagrama de Secuencia
+![Diagrama de Secuencia](./docs/Punto%205%20(Diagrama%20de%20Secuencia).jpeg)
+
+### 4. Diagrama BPMN
+![Diagrama BPMN](./docs/Punto%206%20(Diagrama%20BPMN).jpeg)
